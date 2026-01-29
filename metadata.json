@@ -1,0 +1,8 @@
+{
+  "name": "ClassNet8",
+  "description": "The ultimate all-in-one class companion for communication, notes, quizzes, and tasks, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
